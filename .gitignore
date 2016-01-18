@@ -1,0 +1,5 @@
+#Netbeans Ignore
+/nbproject/private/
+
+#Mac ignore
+.DS_Store
