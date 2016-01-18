@@ -1,9 +1,9 @@
 function AppCtrl($scope)
 {
-	name: Fajar
+    name: Fajar
 }
 
 function AppCtrl($scope)
 {
-	$scope.name="World";
+    $scope.name = "World";
 }
